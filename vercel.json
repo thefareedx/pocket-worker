@@ -1,1 +1,1 @@
-{"buildCommand":"node build-site.cjs","outputDirectory":"dist","installCommand":"echo No dependencies required","framework":null}
+{"buildCommand":"node build-site.cjs","outputDirectory":"dist","installCommand":"echo No dependencies required","framework":null,"cleanUrls":true}
