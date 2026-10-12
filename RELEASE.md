@@ -25,3 +25,6 @@ Full limits, privacy and terms are in Settings. No legal immunity or universal c
 ## Deployment build
 
 Run `node build-site.cjs` to reconstruct the exact 69 static files into dist/. The assets-0.cjs through assets-2.cjs files hold compressed build input because this repository upload path rejected ordinary binary commits. No dependencies are installed. Vercel uses vercel.json. Root index.html remains the previous GitHub Pages release; new production is on Vercel. Editable source and launchers are also in the separately delivered package.
+
+
+Full-screen preview checkpoint: edge-to-edge desktop and mobile; signup and sync remain closed. Trigger private branch-only preview after production credit limit.
